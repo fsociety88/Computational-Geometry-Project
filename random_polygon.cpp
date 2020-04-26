@@ -40,7 +40,7 @@ int main(int argc, char *argv[]) {
         integer = true;
 
     point *ps = new point[count];
-    random_points(ps, count, min, max, integer);
+    random_points_normal(ps, count, min, max, integer);
     space_partition(ps, count);
     file << count << std::endl;
     if (integer) {
