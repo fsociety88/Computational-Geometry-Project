@@ -1,6 +1,6 @@
 Intersection points between two simple polygons
 =================================================
-This is a code base to find intersection points between two simple polygons. For more details, refer the attached report. [*Report.pdf*]
+This is a code base to find intersection points between two simple polygons. For more details, refer the attached [report](https://drive.google.com/open?id=1BY8rRInyieXFDFk2SEW0bilxP6JjzRXf).
 
 >**Usage**
 
